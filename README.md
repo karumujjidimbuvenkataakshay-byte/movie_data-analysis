@@ -69,7 +69,7 @@ The application will open in your browser at:
 
 arduino
 Copy code
-[http://localhost:8501](https://moviedata-analysis-mzbazi5mczfq4cjpvrakau.streamlit.app/)
+(https://moviedata-analysis-mzbazi5mczfq4cjpvrakau.streamlit.app/)]
 🌐 Deployment
 This project can be easily deployed using Streamlit Cloud:
 
