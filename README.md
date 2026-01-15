@@ -69,7 +69,7 @@ The application will open in your browser at:
 
 arduino
 Copy code
-(https://moviedata-analysis-mzbazi5mczfq4cjpvrakau.streamlit.app/)]
+https://stock-price-data-analysis-npy7v7oeuke5kwnx6vw2rk.streamlit.app/
 🌐 Deployment
 This project can be easily deployed using Streamlit Cloud:
 
